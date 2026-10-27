@@ -25,10 +25,4 @@ Com o Ollama rodando em segundo plano, execute o arquivo Python:
 Bash
 python gerar_embeddings.py
 
-Exemplo de saída
 
-Se tudo estiver configurado corretamente, o script vai retornar algo assim no seu console:
-
-Plaintext
-Tamanho do vetor: 768
-Valores iniciais: [0.5887492299079895, 1.458122730255127, -2.715240478515625, -1.5796717405319214, 0.2747862935066223]
