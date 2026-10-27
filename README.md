@@ -19,11 +19,13 @@ No terminal, instale a biblioteca requests, que faz a comunicação com a API:
 Bash
 pip install requests
 Execute o script:
+
 Com o Ollama rodando em segundo plano, execute o arquivo Python:
 
 Bash
 python gerar_embeddings.py
 Exemplo de saída
+
 Se tudo estiver configurado corretamente, o script vai retornar algo assim no seu console:
 
 Plaintext
